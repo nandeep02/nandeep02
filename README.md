@@ -43,7 +43,6 @@ I'm **Nandeep S** — a passionate **Java Full Stack Developer** at the start of
 
 - 🔭 &nbsp;Building **full stack projects** with Java + Web Technologies
 - 🌱 &nbsp;Currently deepening knowledge in **Spring Boot & REST APIs**
-- 📹 &nbsp;I share my dev journey on **YouTube, Medium & Instagram**
 - 🎯 &nbsp;Mission: Land my first developer role & contribute to real products
 - ⚡ &nbsp;Fun fact: I write better code after my 2nd cup of coffee ☕
 - 💬 &nbsp;Ask me about **Java, Core Java, HTML, CSS, JavaScript**
